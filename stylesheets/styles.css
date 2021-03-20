@@ -8,16 +8,16 @@ body {
 }
 
 h1 {
-	color: #A00036;
+	color: #FFFFFF;
 	font-size: 3em;
 }
 
 p, ul {
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: #A00036;
+	color: #FFFFFF;
 	max-width: 30em;
 	width: 100%;
-	text-align: left;
+	text-align: center;
 	margin: 1em auto 1em auto;
 	font-size: 3em;
 	line-height: 1.3;
