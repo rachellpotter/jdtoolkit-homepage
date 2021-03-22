@@ -1,5 +1,5 @@
 body {
-	background-color: #000000;
+	background-color: #FFFFFF;
 	margin: 1em auto;
 	font-size: 30px;
 	padding: 1em;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 30em;
 }
 
@@ -34,7 +34,7 @@ li a {
 
 p {
 	font-family: 'Times New Roman', serif;
-	color: #FFFFFF;
+	color: #000000;
 	max-width: 30em;
 	width: 100%;
 	text-align: center;
