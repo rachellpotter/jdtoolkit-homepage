@@ -1,7 +1,7 @@
 body {
 	background-color: #FFFFFF;
 	margin: 1em auto;
-	font-size: 30px;
+	font-size: 10px;
 	padding: 1em;
 	text-align: center;
 	font-family: 'Times New Roman', serif;
@@ -9,7 +9,7 @@ body {
 
 h1 {
 	color: #000000;
-	font-size: 30em;
+	font-size: 10em;
 }
 
 ul {
@@ -35,7 +35,7 @@ li a {
 p {
 	font-family: 'Times New Roman', serif;
 	color: #000000;
-	max-width: 30em;
+	max-width: 10em;
 	width: 100%;
 	text-align: center;
 	margin: 1em auto 1em auto;
