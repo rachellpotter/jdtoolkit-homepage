@@ -1,6 +1,7 @@
 body {
 	height: 200px;
-	background-color: #FFD6D6;
+	background-color: #FFD6D6; /* For browsers that don't support gradients */
+	background-image: background-image: linear-gradient(#FF8880, #FFD6D6);
 	margin: 5em auto;
 	font-size: 10px;
 	padding: 5em;
