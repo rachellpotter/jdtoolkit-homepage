@@ -1,8 +1,11 @@
-body {
+#grad1 {
 	height: 200px;
 	background-color: #FFD6D6; /* For browsers that don't support gradients */
 	background-image: linear-gradient(to bottom, #FF8880, #FFD6D6);
 	background-repeat: no-repeat;
+}
+body {
+	height: 200px;
 	margin: 5em auto;
 	font-size: 10px;
 	padding: 5em;
